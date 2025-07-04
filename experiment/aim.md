@@ -1,1 +1,1 @@
-### Aim of the experiment
+To study Instrumentation Amplifiers.
